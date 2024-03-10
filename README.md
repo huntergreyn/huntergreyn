@@ -1,5 +1,5 @@
 ![photo_2024-03-10_13-18-37.](https://github.com/huntergreyn/huntergreyn/assets/145340809/d03ea8e3-a2eb-416c-a22e-8cd2f56ab185)
-### print("Hi there, this is niki")
+### print("Hi there, this is niki!")
  **Ctrnl + Z** can fix everyting
 - 🌱 I’m currently learning **html,css**
 
