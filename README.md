@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/niki-g-41287a2b8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="niki-g-41287a2b8" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/me?trk=p_mwlite_profile_self-secondary_nav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="niki-g-41287a2b8" height="30" width="40" /></a>
 <a href="https://instagram.com/huntergreyn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="huntergreyn" height="30" width="40" /></a>
 </p>
 
